@@ -1,4 +1,4 @@
-package models;
+package com.produtos.apirest.models;
 
 import javax.persistence.*;
 import java.io.Serializable;
