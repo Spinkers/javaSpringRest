@@ -57,7 +57,7 @@ O primeiro passo foi acessar o site [Spring Initializr](https://start.spring.io/
 - Artifact: apirest
 - Name: apirest
 - Package Name: com.produtos.apirest
-- Packaging: Jair
+- Packaging: Jar
 - Java Version: 8
 
 #### Dependencies
