@@ -19,9 +19,10 @@ A verdade é que nenhuma linguagem é especial, unica, ou a resposta absoluta pa
 "Para quem só sabe usar martelo, todo problema é um prego."
 </blockquote>
 - Abraham Maslow
-
+<br />
+<br />
 <blockquote>
-Linguagens de programação são ferramentas e devem servir aos seus mestres, elas não merecem lealdade ou torcida organizada.
+"Linguagens de programação são ferramentas e devem servir aos seus mestres, elas não merecem lealdade ou torcida organizada."
 </blockquote>
 - Fabio Akita
 </p>
